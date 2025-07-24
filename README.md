@@ -1,4 +1,4 @@
-# SMCP - Semantic Model Context Protocol
+# S-MCP - Semantic Model Context Protocol
 
 **A community initiative to add semantic understanding to Model Context Protocol (MCP) services.**
 
